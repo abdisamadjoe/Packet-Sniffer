@@ -16,9 +16,7 @@ A simple network packet sniffer tool written in Python using the `scapy` library
 - Python 3.x
 - `scapy` library
 
-### Overview
 
-The Packet Sniffer tool captures and analyzes network packets using the `scapy` library. It provides real-time data on network traffic, including source and destination IP addresses, protocols, and payloads.
 
 ### Architecture
 
