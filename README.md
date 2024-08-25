@@ -90,3 +90,6 @@ Payload: b'GET / HTTP/1.1\r\nHost: example.com\r\n\r\n'
 **Run the Tool:**
    ```bash
   Source IP: 192.168.1.1
+  Destination IP: 192.168.1.2
+  Protocol: TCP
+  Payload: b'GET / HTTP/1.1\r\nHost: example.com\r\n\r\n'
