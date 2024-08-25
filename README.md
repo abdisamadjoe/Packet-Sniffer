@@ -77,10 +77,12 @@ The Packet Sniffer tool captures and analyzes network packets using the `scapy` 
 <p align="center">
 Code Overview: <br/>
 
-<img src="https://github.com/user-attachments/assets/584654c3-e61a-45f4-9f5c-3ae620266c10" height="80%" width="80%" alt="Keylogger Code Overview"/>
+<img src="https://github.com/user-attachments/assets/2e512c02-e92a-4244-8046-416d2204eaed" height="80%" width="80%" alt="Keylogger Code Overview"/>
 <br />
 <br />
 Code in Action: <br/>
-<img src="https://github.com/user-attachments/assets/5f4c6eab-df06-4af9-bdaa-ceb7b743571b" height="80%" width="80%" alt="Keystroke logging"/>
-<br />
-</p>
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.2
+Protocol: TCP
+Payload: b'GET / HTTP/1.1\r\nHost: example.com\r\n\r\n'
+==================================================
